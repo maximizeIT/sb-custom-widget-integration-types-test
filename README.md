@@ -1,0 +1,1 @@
+# sb-custom-widget-integration-types-test
